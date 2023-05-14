@@ -1,11 +1,11 @@
-### Mais sobre mim
+## Olá, eu sou o Vitor 👋
 
-- 👋 Olá, eu sou o Vitor Pelicer!
-- 🎓 Estudante de Ciência da Computação na UNESP, em São José do Rio Preto.
-- 🌱 Atualmente estou aprendendo: Engenharia de software e Engenharia de dados
+### Sobre mim 🚀
+- 🎓 Estudante de Ciência da Computação no IBILCE - UNESP
+- 💻 Aprendendo Tópicos de Engenharia de Dados e Engenharia de Software
 
-### Habilidades
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitor-pelicer&count_private=true&show_icons=true&hide_border=true)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-pelicer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+### Estatísticas do GitHub 📈
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-pelicer&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-pelicer&hide_border=true&layout=compact" />
+</p>
