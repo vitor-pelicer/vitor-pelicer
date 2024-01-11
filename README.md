@@ -6,6 +6,6 @@
 
 ### Estatísticas do GitHub 📈
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-pelicer&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-pelicer&show_icons=true&hide_border=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-pelicer&hide_progress=true&hide_border=true" />
 </p>
